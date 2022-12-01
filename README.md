@@ -4,7 +4,7 @@
 
 <font color=#0000FF>**Query1: the baby is laying around** </font>
 
-![](./videos_gif/1NrSGmxydbE.gif)
+![](videos_gif/1NrSGmxydbE.gif)
 
 ---
 
@@ -12,7 +12,7 @@
 
 <font color=#0000FF>**Query1: Bird is eating some seeds** </font>
 
-![](./videos_gif/PAw51-wiHNc.gif)
+![](videos_gif/PAw51-wiHNc.gif)
 
 ---
 
